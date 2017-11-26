@@ -1,0 +1,16 @@
+img {
+ width: 30%;
+margin: 1.3%;
+border: 1px solid #C0C0C0;
+border-radius: 15px;
+min-width: 200px;
+}
+p{
+  font-family:Gloria Hallelujah;
+  Font-size: 30px;
+  text-transform: uppercase;
+  margin-left:1.3%;
+  width: 30%;
+  border-bottom: 2px solid #f1f1f1;
+  padding-bottom: 20px;
+}
